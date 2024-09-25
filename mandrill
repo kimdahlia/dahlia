@@ -1,12 +1,1 @@
-{
-    "key": "<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">md-alILHS8fpOO5OKvi58KXYg</font></font>",
-    "url": "https://wh.jandi.com/connect-api/webhook/279/f13b4a6cf75399b25ab73eaf7b9a30b8",
-    "description": "My Example Webhook",
-    "events": [
-        "send",
-        "open",
-        "click",
-        "hard_bounce",
-        "spam"
-    ]
-}
+
